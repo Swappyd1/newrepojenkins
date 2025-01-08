@@ -1,5 +1,5 @@
-public class hello{
+public class Hello{
     public static void main(String[] args){
-        system.out.println("Hello from java to jenkins");
+        System.out.println("Hello from java to jenkins");
     }
 }
